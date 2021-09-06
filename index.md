@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/37542595/132222611-897a841e-8bde-4ad3-b55d-fb4d3a909849.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jjyjung/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
